@@ -1,4 +1,4 @@
-FROM debian:bookworm-20240904-slim
+FROM debian:bookworm-20250929-slim
 
 RUN \
   apt-get update && \
